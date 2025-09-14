@@ -1,0 +1,3 @@
+- PPP rate from World Bank
+- Volatility index, i.e, annual inflation rate to better adjust data with inflation.
+- For a much more refined approach, Cost of Living data from Numbeo
