@@ -127,4 +127,4 @@ def get_country_rate(country_code):
     return jsonify(country_data.iloc[0].to_dict())
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8080)
+    app.run(port=8080)
